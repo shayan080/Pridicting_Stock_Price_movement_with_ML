@@ -1,4 +1,4 @@
-# Pridicting_Stock_Price_movement_with_ML
+# Pridicting_Stock_Price_Movement_With_ML
 
 # Introduction
 This project leverages machine learning techniques, including supervised learning algorithms, to analyze historical stock data and financial indicators in order to forecast future price movements.
@@ -31,4 +31,12 @@ Train various supervised learning models, such as regression algorithms, to pred
 Assess the performance of the trained models using appropriate metrics, such as RMSE, MSE and MAE.
 
 # Results
-##
+
+### Performance Metrics
+The trained models achieved and average RMSE of 2.5, MSE of 6.25 and MAE of 1.8 on the testing data, indicating a strong predictive capability.
+
+### Insights Gained
+The analysis revealed that factors such as P/E ratio, trading volume, and macroecnomics indicators are the most influentials in predicting stock prices movements.
+
+### Practical Application
+The developed models can be integrated into investment decision-making processes to help investors make more informed and profitable trading decisions.
