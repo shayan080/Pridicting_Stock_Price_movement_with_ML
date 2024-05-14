@@ -47,7 +47,3 @@ The analysis revealed that factors such as P/E ratio, trading volume, and macroe
 
 ### Practical Application
 The developed models can be integrated into investment decision-making processes to help investors make more informed and profitable trading decisions.
-
-# Dataset
-Provided link is the dataset used in it 
-https://www.kaggle.com/datasets/dgawlik/nyse
