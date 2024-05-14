@@ -1,10 +1,9 @@
 # Pridicting_Stock_Price_Movement_With_ML
 
-# Dataset
+# Dataset $ Code
 Provided link is the dataset used in it 
 https://www.kaggle.com/datasets/dgawlik/nyse
 
-#Code
 Provided is the link to the notebook
 https://www.kaggle.com/code/igodly/predicting-stock-prices-movement-with-ml
 
