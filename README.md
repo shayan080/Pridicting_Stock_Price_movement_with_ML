@@ -7,10 +7,10 @@ This project leverages machine learning techniques, including supervised learnin
 ## Predict Stock Prices
 Develop a machine learning model that can accurately forecast future stock prices based on historical data and financial indicators.
 
-#### Contribute to Research
+## Contribute to Research
 Expand the understanding of how machine learning can be applied to financial forecasting and share findings with the research community.
 
-#### Enhanced Investment Decisions
+## Enhanced Investment Decisions
 Provide investors with data-driven insights to help them make more informed and profitable investment decisions.
 
 # Proposed Methodology
@@ -30,3 +30,4 @@ Train various supervised learning models, such as regression algorithms, to pred
 Assess the performance of the trained models using appropriate metrics, such as RMSE, MSE and MAE.
 
 # Results
+##
